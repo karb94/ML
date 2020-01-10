@@ -1,0 +1,13 @@
+dependencies:
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - scipy
+  - statsmodels
+  - tensorflow
+channels:
+  - conda-forge
+  - defaults
